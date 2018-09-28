@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dojo Survey Validation</title>
+</head>
+<body>
+    @model User
+    <div asp-validation-summary="All"></div>
+    <div class='wrapper'>
+        <h1 class='h1'>Dojo Survey</h1>
+        <form class='form' action='/results' method="post">
+        <div class='section'>
+            Name: <input type='text' name='name'>
+        </div>
+        <div class='section'>
+            Dojo Location: <select name='location'>
+                <option value="San Jose">San Jose</option>
+                <option value="Seattle">Seattle</option>
+                <option value="Mountain View">Mountain View</option>
+            </select>
+        </div>
+        <div class='section'>
+            Favorite Language: <select name='language'>
+                <option value="Python">Python</option>
+                <option value="C#/.NET">C#/.NET</option>
+                <option value="HTML">HTML</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="Java">Java</option>
+            </select>
+        </div>
+        Comment (optional):
+        <div class='section'>        
+            <textarea name='comment' cols='10' rows='4'></textarea>
+        </div>
+            <input id='button' type='submit' value='Submit'>
+        </form> 
+    </div>
+</body>
+</html>

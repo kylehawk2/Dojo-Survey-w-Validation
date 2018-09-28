@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\bin\Debug\netcoreapp2.0\DojoSurvey_Validation.deps.json
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\bin\Debug\netcoreapp2.0\DojoSurvey_Validation.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\bin\Debug\netcoreapp2.0\DojoSurvey_Validation.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\bin\Debug\netcoreapp2.0\DojoSurvey_Validation.dll
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\bin\Debug\netcoreapp2.0\DojoSurvey_Validation.pdb
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.dll
+C:\Users\Kyle\Documents\C#-.NET\DojoSurvey_Validation\obj\Debug\netcoreapp2.0\DojoSurvey_Validation.pdb
